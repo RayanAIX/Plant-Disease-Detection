@@ -12,7 +12,6 @@ Here are a few predictions made by the model:
 
 <img src="output1.png" width="300"/> <img src="output2.png" width="300"/>
 
-> ✅ Add your own screenshots in the `screenshots/` folder to showcase results!
 
 ---
 
